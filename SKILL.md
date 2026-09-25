@@ -6,7 +6,7 @@ license: MIT
 compatibility: "Portable Agent Skills format. Python 3.9+; web search or browser access is required for discovery, while OCR is optional."
 metadata:
   author: lovstudio
-  version: "0.1.0"
+  version: "0.1.1"
   card_standard: lovstudio/skill-card/v1
   content_class: verbatim
   tags:
@@ -17,7 +17,7 @@ metadata:
     - web-archive
 ---
 
-# lov-search-twitter — 找到原帖，也说明哪些没有找到
+# X 原帖寻回 · X Post Recovery
 
 把人物、账号、关键词、X 链接、status ID 或截图整理成可核验的原帖索引与逐字正文汇总。正文必须来自可定位证据；搜索摘要、媒体转述和 OCR 不得冒充原文。
 
