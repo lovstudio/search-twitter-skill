@@ -1,6 +1,6 @@
 # X 原帖寻回 · X Post Recovery
 
-![Version](https://img.shields.io/badge/version-0.1.1-CC785C)
+![Version](https://img.shields.io/badge/version-0.1.2-CC785C)
 
 从人物、账号、关键词、X 链接、status ID 或截图出发，交付带来源分级的原帖索引、逐字正文、截图证据和未恢复清单。
 
@@ -9,7 +9,7 @@
 通过 Agent Skills 统一入口全局安装：
 
 ```bash
-npx skills add lov-search-twitter -g -y
+npx lovstudio skills add search-twitter -g -y
 ```
 
 LovStudio 产品界面也可使用：
